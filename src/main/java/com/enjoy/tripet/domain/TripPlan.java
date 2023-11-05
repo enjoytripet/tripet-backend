@@ -10,7 +10,7 @@ import javax.persistence.*;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
-@Entity
+
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class TripPlan extends BaseEntity{

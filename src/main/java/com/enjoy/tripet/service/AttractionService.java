@@ -1,4 +1,4 @@
-package com.enjoy.tripet.service;
-
-public class AttractionService {
-}
+//package com.enjoy.tripet.service;
+//
+//public class AttractionService {
+//}

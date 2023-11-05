@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
-@EnableJpaAuditing
-@EnableJpaRepositories
+//@EnableJpaAuditing
+//@EnableJpaRepositories
 public class TripetApplication {
 
 	public static void main(String[] args) {
