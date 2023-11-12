@@ -1,0 +1,14 @@
+package com.enjoy.tripet.dtos;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+
+@Getter
+@Builder
+@AllArgsConstructor
+public class TokenInfo {
+    private String grantType;
+    private String accessToken;
+    private String refreshToken;
+}
